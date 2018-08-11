@@ -35,7 +35,7 @@ By the end of the program, interns should be able to…
 
 Intern | High School | Blogs
 ------ | ----------- | -----
-[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose | [Blog 1](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog1.md), [Blog 2](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog2.md)
+[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose | [Blog 1](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog1.md), [Blog 2](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog2.md), [Blog 3](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog%203.md)
 [Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton | [Blog 1](https://github.com/ashli-jain/SEYIBiodiversity/blob/master/blogs/Blogpost%20%231.docx), [Blog 2](https://github.com/ashli-jain/SEYIBiodiversity/tree/master/blogs/Blogpost%20%232.pages)
 [Christopher Noll](https://github.com/christopher-noll/EarthYoungInvestigatorProject) | San Mateo High School, San Mateo | [Blogs](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blogs)
 [Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno | [Blog 1](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Blogs%201.md), [Blog 2](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Bella’s%20B2%20Final.pdf)
